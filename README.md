@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tanishqontop
+- 👋 Hi, I’m Tanishq Pratap
 - 👀 I’m interested in ...Programming 
 - 🌱 I’m currently learning ...Computer Science 
 - 💞️ I’m looking to collaborate on ...
