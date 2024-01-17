@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tanishq Pratap
 - 👀 I’m interested in ...Programming 
 - 🌱 I’m currently learning ...Computer Science 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Data Science Projects.
 - 📫 How to reach me ...at tanishqontop@gmail.com
 
 <!---
