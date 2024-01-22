@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Programming 
 - 🌱 I’m currently learning ...Computer Science 
 - 💞️ I’m looking to collaborate on ...Data Science Projects.
-- 📫 How to reach me ...at tanishqontop@gmail.com
+- 📫 Reach me ...@ tanishqm.22.beds@acharya.ac.in
 
 <!---
 Tanishqontop/Tanishqontop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
